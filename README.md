@@ -1,9 +1,9 @@
 # CSIT327-PROJECT
 
-| Group Members       |
-| ------------------- |
-| Eurese Bustamante   |
-| Ericsson Lauronilla |
+| Group Members       | github uname |
+| ------------------- | ------------ |
+| Eurese Bustamante   | eureseb      |
+| Ericsson Lauronilla | ericssonny   |
 
 ## Landing page
 
