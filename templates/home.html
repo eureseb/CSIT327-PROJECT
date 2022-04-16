@@ -1,0 +1,10 @@
+{% extends 'layout.html' %} {% block body %}
+<div class="jumbotron text-center">
+  <h2>Welcome to out simple Python based CRUD application.</h2>
+
+  <p class="lead">This project was made by Eurese Bustamante and Ericsson Lauronilla</p>
+  {% if session.logged_in == NULL %}
+  <a href="/register" class="btn btn-primary btn-lg">Register</a>
+  <a href="/login" class="btn btn-success btn-lg">Login</a> {% endif %}
+</div>
+{% endblock %}
