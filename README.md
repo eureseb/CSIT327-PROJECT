@@ -40,3 +40,14 @@
 ## Successful article delete
 
 ![image](https://user-images.githubusercontent.com/18336854/163659671-d73796af-e0ff-4688-92ef-2f8a3d4073a4.png)
+
+## SQL TABLES
+
+### table: user_flask
+![image](https://user-images.githubusercontent.com/18336854/163660048-88732e63-7d85-4eaf-a753-12e04f73ef92.png)
+
+### table: articles
+![image](https://user-images.githubusercontent.com/18336854/163660071-07267ac9-6d00-4f49-9743-ba0a1c5cbc8e.png)
+
+
+
