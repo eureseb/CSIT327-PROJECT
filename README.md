@@ -1,11 +1,12 @@
 # CSIT327-PROJECT
 
-| Group Members |
-| Eurese Bustamante |
+| Group Members       |
+| ------------------- |
+| Eurese Bustamante   |
 | Ericsson Lauronilla |
 
-
 ## Landing page
+
 ![image](https://user-images.githubusercontent.com/18336854/163659513-3f8ce676-a94c-4f33-863e-58c7a9033dc1.png)
 
 ## About
@@ -28,7 +29,6 @@
 
 ![image](https://user-images.githubusercontent.com/18336854/163659635-d91bd624-441f-4124-b959-26e769ba34da.png)
 
-
 ## Add article
 
 ![image](https://user-images.githubusercontent.com/18336854/163659654-fb963732-4346-451b-b239-da7c574a82f0.png)
@@ -40,4 +40,3 @@
 ## Successful article delete
 
 ![image](https://user-images.githubusercontent.com/18336854/163659671-d73796af-e0ff-4688-92ef-2f8a3d4073a4.png)
-
